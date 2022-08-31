@@ -35,6 +35,7 @@ This is fully developed with React and CSS
 
 - 👨‍💻 &nbsp;This uses React components, hooks, state, and JSX
 - :art: &nbsp;The project implements the [CSS BEM model](https://css-tricks.com/bem-101/) 
+- :iphone: &nbsp; Fully adaptive. Well designed for both larger and smaller screen!
 - 🌱 &nbsp;This is a template for restruant to help kick start their buisness! 
 
 
@@ -44,7 +45,7 @@ This is fully developed with React and CSS
 Clone the project
 
 ```
-  git clone https://github.com/jorofino3/movie-land
+  git clone https://github.com/jorofino3/restaurant-template
 ```
 
 Go to the project directory
