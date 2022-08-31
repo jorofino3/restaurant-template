@@ -43,36 +43,26 @@ This is fully developed with React and CSS
 
 Clone the project
 
-```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+```
+  git clone https://github.com/jorofino3/movie-land
 ```
 
 Go to the project directory
 
-```bash
-  cd my-project
+```
+  cd app
 ```
 
 Install dependencies
 
-```bash
+```
   npm install
 ```
 
 Start the server
 
-```bash
-  npm start
 ```
-
-
-<!-- Deployment -->
-### :triangular_flag_on_post: Deployment
-
-To deploy this project run
-
-```bash
-  yarn deploy
+  npm start
 ```
 
 <!-- Contact -->
