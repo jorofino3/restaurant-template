@@ -1,8 +1,8 @@
 
 <div align="center">
-
+<a href="https://jorofino3.github.io/restaurant-template/">
   <img width="550" height="300" alt="image" src="https://user-images.githubusercontent.com/97992795/187261556-f5029cf3-2f89-4065-af2d-aba2043092bf.png">
-
+</a>
   <h1>Restraunt Template</h1>
 
   
